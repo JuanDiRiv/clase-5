@@ -1,0 +1,3 @@
+Contenido del archivo de Visual Studio Code
+Con varias lineas
+Para editar archivos
