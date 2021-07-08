@@ -1,2 +1,2 @@
 Contenido del archivo GitBash
-modificacion del archibo de gitbash
+modificacion del archivo de gitbash
