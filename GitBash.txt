@@ -1,3 +1,7 @@
 Contenido del archivo GitBash
+<<<<<<< HEAD
 modificacion del archibo de gitbash
 modificado
+=======
+modificacion del archivo de gitbash
+>>>>>>> 8512429b1f0fd93d62a586238130ce47296b74b0
